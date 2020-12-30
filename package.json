@@ -1,0 +1,22 @@
+{
+  "name": "image-lambda",
+  "version": "1.0.0",
+  "description": "Image Storage using AWS Lambda",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeremyp-401-advanced-javascript/image-lambda.git"
+  },
+  "author": "Jeremy Penning",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jeremyp-401-advanced-javascript/image-lambda/issues"
+  },
+  "homepage": "https://github.com/jeremyp-401-advanced-javascript/image-lambda#readme",
+  "dependencies": {
+    "sharp": "^0.27.0"
+  }
+}
